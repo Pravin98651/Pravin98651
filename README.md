@@ -52,27 +52,6 @@ PORTFOLIO       : https://praving.pages.dev
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <strong>📜 20+ PATENTS</strong><br/>
-      <sub>Published in software, AI & CV</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>🥇 8+ HACKATHONS</strong><br/>
-      <sub>National podiums & wins</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>🎖️ VIT ACHIEVER</strong><br/>
-      <sub>National Merit Honor 2025–26</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>⚡ DANFOSS 2026</strong><br/>
-      <sub>National Innovator Finalist</sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🛠️ TECHNOLOGY MATRIX & WEAPONS OF CHOICE
